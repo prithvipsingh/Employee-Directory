@@ -17,15 +17,6 @@ function Nav({ handleSearchChange }) {
         <span className="navbar-toggler-icon" />
       </button>
       <div className="collapse navbar-collapse row" id="navbarNav">
-        <div className="input-group col-8">
-          <div className="input-group-prepend">
-            <span className="input-group-text" id="">
-              DOB
-            </span>
-          </div>
-          <input type="date" className="form-control" />
-          <input type="date" className="form-control" />
-        </div>
         <div className="search-area col-4">
           <SearchBox handleSearchChange={handleSearchChange} />
         </div>

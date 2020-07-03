@@ -18,5 +18,5 @@ function SearchBox({ handleSearchChange }) {
       </form>
     </div>
   );
-}
+} 
 export default SearchBox;
