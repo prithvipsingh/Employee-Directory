@@ -1,6 +1,6 @@
 import React from "react";
 
-function Nav() {
+function Nav({ handleSearchChange }) {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <button
