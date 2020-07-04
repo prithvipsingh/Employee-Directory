@@ -11,8 +11,9 @@ https://prithvipsingh.github.io/Employee-Directory/
 
 ## Images
 GIF demonstrating the Employee Directory
-  [Home Page](Images/Homepage.png)
-  [Search](Images/Search.png)
+  [Home Page](Images/Homepage.png).
+
+  [Search](Images/Search.png).
 ## Installation
 #### Available Scripts
 
