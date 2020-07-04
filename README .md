@@ -6,11 +6,13 @@ Primary goal of app was to use React for the first time. The app takes in a set 
 
 
 ## Deployed App Link
+https://prithvipsingh.github.io/Employee-Directory/
 
 
 ## Images
 GIF demonstrating the Employee Directory
-
+  [Home Page](Images/Homepage.png)
+  [Search](Images/Search.png)
 ## Installation
 #### Available Scripts
 
@@ -26,9 +28,6 @@ You will also see any lint errors in the console.
 
 ## Usage 
 This was primarily made to meet the requirements of a homework assignment. It could be used as the basis for a to-do app.
-
-## Credits 
-I created this code based on the homework prompt created by Triology Education Services. Certain pieces of code I used online resources for help. I have included citations in the form of comments throughout the code. Image credits are located below the image.
 
 ## Contributing 
 I was the only one to work on this project, but of course I had help from my instructor, TA's, and classmates.
