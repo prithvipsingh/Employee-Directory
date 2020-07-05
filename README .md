@@ -10,12 +10,14 @@ Primary goal of app was to use React for the first time. The app takes in a set 
 
 https://prithvipsingh.github.io/Employee-Directory/
 
-## GIF demonstrating the Employee Directory
+## Preview of Application 
+![HomePage](/Images/Homepage.png)
 
-[Home Page](Images/Homepage.png)
+ ![Search](/Images/Search.png)
 
-[Search](Images/Search.png)
+## Demo
 
+ 
 ## Installation
 
 #### Available Scripts
