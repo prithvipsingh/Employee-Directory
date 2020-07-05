@@ -16,15 +16,10 @@ https://prithvipsingh.github.io/Employee-Directory/
  ![Search](/Images/Search.png)
 
 ## Demo
- ![Employeee-Directory Demo]()
+ ![Employeee-Directory Demo](/Images/Demo.gif)
  
 ## Installation
-
-#### Available Scripts
-
-In the project directory, you can run:
-
-#### `npm start`
+`npm start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -38,12 +33,11 @@ This was primarily made to meet the requirements of a homework assignment. It co
 
 ## Contributing
 
-I was the only one to work on this project, but of course I had help from my instructor, TA's, and classmates.
+I was the only one to work on this project, but of course I had help from the  instructor, TA's, Tuitor and classmates.
 
 ## Challenges
 
-The major challenge was using React for the first time. Figuring out how to properly implement the hook useEffect was a struggle for me for awhile. I built out my components before thinking about how I would pass values around through components, which resulted in me having to learn how to implement the handle useContext. This allowed me to pass around the employees and update them without having to worry about parent child relationships to allow for prop passing.
-
+The major challenge was using React for the first time. Figuring out how to properly implement the hook useEffect was a struggle for me for awhile. I built out my components before thinking about how I would pass values around through components, which resulted in me having to learn how to implement the handle Props and States.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
