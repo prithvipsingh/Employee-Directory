@@ -16,7 +16,7 @@ https://prithvipsingh.github.io/Employee-Directory/
  ![Search](/Images/Search.png)
 
 ## Demo
-[Demo](/Images/Demo.mp4)
+ ![Employeee-Directory Demo]()
  
 ## Installation
 
